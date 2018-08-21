@@ -1,6 +1,24 @@
 # 74test
 Standalone 74 Series IC Testbench for AVR 
 
+## Progress:
+### Implemented:
+#### DIP14:
+* 7406
+* 7408
+
+### Todo:
+#### DIP14:
+* 7474
+#### DIP16:
+* 74139
+* 74193
+* 74257
+* 74258
+* 74629
+##### DIP20:
+* 74373
+
 ## Pin configuration (Mega2560)
 
 | Pin Name | Pin No. | Function       | I/O |
