@@ -16,7 +16,7 @@ Standalone 74 Series IC Testbench for AVR
 * 74257
 * 74258
 * 74629
-##### DIP20:
+#### DIP20:
 * 74373
 
 ## Pin configuration (Mega2560)
